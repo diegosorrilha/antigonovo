@@ -1,6 +1,8 @@
 # antigonovo
 Exemplo de webiste em Django
 
+[![Build Status](https://travis-ci.org/diegosorrilha/antigonovo.svg?branch=master)](https://travis-ci.org/diegosorrilha/antigonovo)
+
 Para instalar ambiente de desenvolvimento:
 
 Instale o python 3
