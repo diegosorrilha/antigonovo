@@ -2,6 +2,9 @@
 Exemplo de webiste em Django
 
 [![Build Status](https://travis-ci.org/diegosorrilha/antigonovo.svg?branch=master)](https://travis-ci.org/diegosorrilha/antigonovo)
+[![Updates](https://pyup.io/repos/github/diegosorrilha/antigonovo/shield.svg)](https://pyup.io/repos/github/diegosorrilha/antigonovo/)
+[![Python 3](https://pyup.io/repos/github/diegosorrilha/antigonovo/python-3-shield.svg)](https://pyup.io/repos/github/diegosorrilha/antigonovo/)
+
 
 Para instalar ambiente de desenvolvimento:
 
